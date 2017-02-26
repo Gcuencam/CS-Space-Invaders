@@ -8,6 +8,7 @@ public class gitTestClass {
 
     private int attributeX;
     private int attributeY;
+    private int attributeZ;
 
 
     private gitTestClass(int x, int y){
