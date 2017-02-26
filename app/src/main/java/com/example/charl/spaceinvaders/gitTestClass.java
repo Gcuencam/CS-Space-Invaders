@@ -11,9 +11,10 @@ public class gitTestClass {
     private int attributeZ;
 
 
-    private gitTestClass(int x, int y){
+    private gitTestClass(int x, int y, int z){
         this.attributeX = x;
         this.attributeY = y;
+        this.attributeZ = z;
     }
 
     private String testMethod(){
